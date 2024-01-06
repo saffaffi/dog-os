@@ -1,4 +1,4 @@
-print("starting turtle test...")
+print("starting turtle test v2...")
 
 print("checking for solid ground... ")
 if turtle.detectDown then
@@ -26,4 +26,4 @@ else
     fuel_case_table["other"](fuel)
 end
 
-print("finished turtle test")
+print("finished turtle test v2")
